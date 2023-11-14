@@ -1,0 +1,37 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+.root {
+    max-width: 800px;
+    margin: 50px auto;
+}
+
+.refs {
+    ul li {
+        display: inline;
+        margin: 0 10%;
+    }
+}
+
+.experience {
+    ul li {
+        margin: 0.5rem 0;
+        display: grid;
+        grid-template-columns: 22ch 1fr;
+
+        h4, h5, p {
+            grid-column: 2 / 3;
+            margin: 5px 0;
+        }
+
+        h3 {
+            grid-column: 1 / 2;
+            grid-row: 1;
+            margin: 5px 0;
+        }
+    }
+}
