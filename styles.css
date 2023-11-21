@@ -2,7 +2,7 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #f4f4f4;
+    background-color: #fff8e7;
 }
 
 .root {
@@ -15,6 +15,10 @@ body {
         display: inline;
         margin: 0 10%;
     }
+}
+
+h2 {
+    color: #26428b;
 }
 
 .grid-container {
