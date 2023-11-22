@@ -1,6 +1,6 @@
 # c_server
 
-This is C language web server to serve my personal website in trueform.tech
+This is C language web server written in sockets to serve my personal website in [trueform.tech](http://trueform.tech/)
 
 ## Compilation with Makefile
 ```make```
