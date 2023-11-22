@@ -1,6 +1,6 @@
 # c_server
 
-This is C language web server
+This is C language web server to serve my personal website in trueform.tech
 
 ## Compilation with Makefile
 ```make```
